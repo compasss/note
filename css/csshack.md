@@ -13,3 +13,5 @@ overflow:hidden;}</code></pre>
 6. ie8+都识别important属性
 7. ie8中没有display:inline-block，需要设置成:display:inline
 8. ie4-9透明效果：filter:alpha(opacity=50)
+9. IE6,7两端对齐需要两点：inline标签化和结束标签连续化。text-align:justify
+10. 
