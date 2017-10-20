@@ -199,3 +199,6 @@ github地址： [connect-redis](https://github.com/tj/connect-redis "官网API�
             }),
         }))
         ```
+### magickwand
+作用：处理图片
+github地址： [magickwand](https://www.npmjs.com/package/magickwand "官网API地址")
