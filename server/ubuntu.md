@@ -22,3 +22,6 @@ Acquire::ftp::proxy "ftp://myproxy.server.com:8080/";
 Acquire::https::proxy "https://myproxy.server.com:8080/";
 ```
 Finally, logout and reboot to make sure the changes take effect.
+
+related url:
+[https://askubuntu.com/questions/175172/how-do-i-configure-proxies-without-gui](https://askubuntu.com/questions/175172/how-do-i-configure-proxies-without-gui)
