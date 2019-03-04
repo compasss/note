@@ -1,3 +1,10 @@
+---
+layout: default
+title: 设计模式
+parent: javascript
+categories: 设计模式
+---
+
 ### Javascript设计模式
 
 ----------

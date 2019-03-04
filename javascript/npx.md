@@ -1,3 +1,10 @@
+---
+layout: default
+title: npx 使用
+parent: javascript
+categories: javascript
+---
+
 ## npx 使用
 
 调用项目安装的模块

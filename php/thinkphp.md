@@ -1,3 +1,11 @@
+---
+layout: default
+title: thinkphp
+parent: php
+nav_order: 1
+categories: php
+---
+
 thinkPHP
 ---
 1. 自定义模块：define('BIND_MODULE','admin')

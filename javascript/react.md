@@ -1,3 +1,10 @@
+---
+layout: default
+title: reac笔记
+parent: javascript
+categories: javascript
+---
+
 reac笔记
 --
 

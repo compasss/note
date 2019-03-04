@@ -1,3 +1,10 @@
+---
+layout: default
+title: 浏览器兼容性
+parent: javascript
+categories: 浏览器兼容性
+---
+
 ###jvascript 浏览器兼容性
 ---
 

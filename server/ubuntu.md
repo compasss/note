@@ -1,3 +1,11 @@
+---
+layout: default
+title: ubuntu
+parent: server
+nav_order: 1
+categories: server
+---
+
 ## ubuntu config
 
 1. proxy config

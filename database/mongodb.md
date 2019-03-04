@@ -1,3 +1,11 @@
+---
+layout: default
+title: mongodb
+parent: database
+nav_order: 1
+categories: mongodb
+---
+
 ### mongodb 数据库操作
 
 + 正则匹配更新

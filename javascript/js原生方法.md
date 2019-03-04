@@ -1,3 +1,10 @@
+---
+layout: default
+title: JS原生方法
+parent: javascript
+categories: javascript
+---
+
 ###JS原生方法
 ---
 > form 操作

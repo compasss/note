@@ -1,3 +1,10 @@
+---
+layout: default
+title: JS 原型与原型链
+parent: javascript
+categories: javascript
+---
+
 ### JS 原型与原型链
 
 ===
@@ -26,7 +33,6 @@
 | &emsp;<a name="catalog-chapter-five-five" id="catalog-chapter-five-five"></a>[5.5 this 指向哪](#chapter-five-five) |
 | <a name="catalog-chapter-six" id="catalog-chapter-six"></a>[六  总结](#chapter-six) |
 | <a name="catalog-chapter-seven" id="catalog-chapter-seven"></a>[七 参考文献](#chapter-seven) |
-| <a name="catalog-chapter-eight" id="catalog-chapter-eight"></a>[八 工具](#chapter-eight) |
 
 ## <a name="chapter-two" id="chapter-two">二 前言</a>
 
@@ -698,7 +704,7 @@ thingOne.action();
 
 以上，是不是感觉鬼门关走了一遭，终于成功见到了曙光！！！
 
-## <a name="chapter-seven" id="chapter-seven">六 参考资料</a>
+## <a name="chapter-seven" id="chapter-six">六 参考资料</a>
 
 > [返回目录](#chapter-one)
 

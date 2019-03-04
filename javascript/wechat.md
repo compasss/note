@@ -1,3 +1,10 @@
+---
+layout: default
+title: 微信开发相关
+parent: javascript
+categories: javascript
+---
+
 ## 微信开发相关
 
 1. 菜单长度

@@ -1,3 +1,10 @@
+---
+layout: default
+title: JS原生与jquery
+parent: javascript
+categories: javascript
+---
+
 ###JS原生与jquery
 ---
 
