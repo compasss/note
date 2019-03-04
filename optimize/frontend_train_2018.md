@@ -1,3 +1,8 @@
+---
+layout: default
+nav_exclude: true
+---
+
 ### 前端问题记录
 1. [HTML相关](#html)
 2. [CSS相关](#css)
