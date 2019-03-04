@@ -1,9 +1,17 @@
+@charset "UTF-8";
+
 //
 // Styles for rendered markdown in the .main-content container
 //
 // stylelint-disable selector-no-type, max-nesting-depth, selector-max-compound-selectors, selector-max-type
 
 .page-content {
+  a {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+
   ul,
   ol {
     padding-left: 1.5em;
@@ -13,13 +21,13 @@
     list-style-type: none;
     counter-reset: step-counter;
 
-    li {
+    > li {
       position: relative;
 
       &::before {
         position: absolute;
         top: 0.2em;
-        left: -1.5em;
+        left: -1.6em;
         color: $grey-dk-000;
         content: counter(step-counter);
         counter-increment: step-counter;
@@ -46,12 +54,12 @@
   ul {
     list-style: none;
 
-    li {
+    > li {
       &::before {
         position: absolute;
-        margin-left: -1.5em;
+        margin-left: -1.4em;
         color: $grey-dk-000;
-        content: ".";
+        content: "•";
       }
     }
   }

@@ -1,3 +1,11 @@
+---
+layout: default
+title: java core edit 9
+parent: java
+nav_order: 1
+categories: java
+---
+
 # java core edit 9
 
 ## 第三章 java的基本程序设计结构
