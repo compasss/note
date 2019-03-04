@@ -1,3 +1,10 @@
+---
+layout: default
+title: canvas
+parent: html
+categories: html
+---
+
 canvas 笔记
 --
 1. canvas通过CSS设置宽，高的时候里面的矩形会根据CSS设置的高度变化，而在html里面直接设置没有影响。<b>试验了好几次都未解决问题，以后再找机会解决</b>

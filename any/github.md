@@ -1,8 +1,7 @@
 ---
 layout: default
-title: github
-parent: collection
-nav_order: 1
+title: github收藏
+parent: any
 categories: github
 ---
 

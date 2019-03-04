@@ -1,4 +1,11 @@
-tornado笔记
+---
+layout: default
+title: tornado
+parent: python
+categories: python
+---
+
+##tornado笔记
 --
 1. 基本模块<pre><code>import tornado.httpserver
 import tornado.ioloop

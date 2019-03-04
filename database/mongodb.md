@@ -2,7 +2,6 @@
 layout: default
 title: mongodb
 parent: database
-nav_order: 1
 categories: mongodb
 ---
 
