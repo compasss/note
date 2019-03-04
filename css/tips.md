@@ -1,3 +1,11 @@
+---
+layout: default
+title: css tips
+parent: css
+nav_order: 3
+categories: css
+---
+
 ## 记录css的一些用法
 
 1. flex流式布局

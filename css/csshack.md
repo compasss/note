@@ -1,3 +1,11 @@
+---
+layout: default
+title: CSS hack
+parent: css
+nav_order: 1
+categories: css
+---
+
 ### CSS hack
 ---
 

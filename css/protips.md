@@ -1,3 +1,11 @@
+---
+layout: default
+title: protips
+parent: css
+nav_order: 2
+categories: css
+---
+
 <p align="center">
   <img src="https://rawgit.com/AllThingsSmitty/css-protips/master/media/logo.svg" alt="light bulb icon">
 </p>

@@ -1,3 +1,11 @@
+---
+layout: default
+title: ssh
+parent: any
+nav_order: 1
+categories: ssh
+---
+
 ## ssh 命令
 
 ### options
