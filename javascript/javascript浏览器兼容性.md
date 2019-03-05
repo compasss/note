@@ -3,6 +3,7 @@ layout: default
 title: 浏览器兼容性
 parent: javascript
 categories: 浏览器兼容性
+date: 2013-03-01 12:00:00
 ---
 
 ###jvascript 浏览器兼容性

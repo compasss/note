@@ -2,8 +2,8 @@
 layout: default
 title: java core edit 9
 parent: java
-nav_order: 1
 categories: java
+date: 2013-03-07 11:35:55 +0800
 ---
 
 # java core edit 9

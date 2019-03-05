@@ -3,6 +3,7 @@ layout: default
 title: 设计模式
 parent: javascript
 categories: 设计模式
+date: 2018-03-02 12:00:00
 ---
 
 ### Javascript设计模式

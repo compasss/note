@@ -2,8 +2,8 @@
 layout: default
 title: ubuntu
 parent: server
-nav_order: 1
 categories: server
+date: 2016-03-05 11:15:55 +0800
 ---
 
 ## ubuntu config

@@ -3,6 +3,7 @@ layout: default
 title: npx 使用
 parent: javascript
 categories: javascript
+date: 2018-03-05 12:00:00
 ---
 
 ## npx 使用

@@ -2,8 +2,8 @@
 layout: default
 title: protips
 parent: css
-nav_order: 2
 categories: css
+date: 2013-03-04 11:15:55 +0800
 ---
 
 <p align="center">

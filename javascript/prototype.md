@@ -3,6 +3,7 @@ layout: default
 title: JS 原型与原型链
 parent: javascript
 categories: javascript
+date: 2019-03-01 12:00:00
 ---
 
 ### JS 原型与原型链

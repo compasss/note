@@ -2,8 +2,8 @@
 layout: default
 title: thinkphp
 parent: php
-nav_order: 1
 categories: php
+date: 2015-03-04 11:15:55 +0800
 ---
 
 thinkPHP

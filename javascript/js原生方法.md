@@ -3,9 +3,10 @@ layout: default
 title: JS原生方法
 parent: javascript
 categories: javascript
+date: 2018-03-04 12:00:00
 ---
 
-###JS原生方法
+## JS原生方法
 ---
 > form 操作
 

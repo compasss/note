@@ -3,6 +3,7 @@ layout: default
 title: canvas
 parent: html
 categories: html
+date: 2013-03-06 11:15:55 +0800
 ---
 
 canvas 笔记

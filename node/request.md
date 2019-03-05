@@ -2,8 +2,8 @@
 layout: default
 title: npm request
 parent: node
-nav_order: 1
 categories: node
+date: 2017-03-09 11:15:55 +0800
 ---
 
 ## request use

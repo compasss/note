@@ -2,8 +2,8 @@
 layout: default
 title: CSS hack
 parent: css
-nav_order: 1
 categories: css
+date: 2013-03-04 11:15:55 +0800
 ---
 
 ### CSS hack
