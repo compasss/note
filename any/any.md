@@ -35,3 +35,9 @@ sass_binary_site http://cdn.npm.taobao.org/dist/node-sass # node-sass 二进制�
 electron_mirror http://cdn.npm.taobao.org/dist/electron/ # electron 二进制包镜像
 
 ```
+
++ windows 子系统的git不同步
+在子系统中执行
+``` bash
+git config core.autocrlf true
+```
