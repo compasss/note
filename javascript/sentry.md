@@ -8,7 +8,8 @@ date: 2019-07-10 12:00:00
 
 ## sentry-cli 操作
 ['官方说明'](https://docs.sentry.io/cli/)
-
+['参考文档'](https://juejin.im/post/5cc2b8b9e51d456e40377319)
+['Configure Sentry for Vue.JS project](https://medium.com/@msuixo/configure-sentry-for-vue-js-project-6aa07efe2c80)
 1. 先在后台生成token
 
 ![图](./pic/sentry-1.png)
